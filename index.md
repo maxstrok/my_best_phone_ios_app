@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to My Best Phone App GitHub page. Here you can find all the information including support and marketing materials
 
-You can use the [editor on GitHub](https://github.com/maxstrok/my_best_phone_ios_app/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Marketing Page
+Please check out our instagram page for more details and the latest updates [my_best_phone_app instagram](https://www.instagram.com/my_best_phone_app/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Support Information
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maxstrok/my_best_phone_ios_app/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please contract us via the my.best.phone.app.2020@gmail.com email in case of any questions. We'll be ready to help!
